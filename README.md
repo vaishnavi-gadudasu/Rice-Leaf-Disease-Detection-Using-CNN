@@ -58,3 +58,11 @@ Rice-Leaf-Disease-Detection-Using-CNN
 - Support additional crop diseases.
 - Enable real-time disease detection.
 - Integrate with mobile devices for field use.
+
+## Sample Images
+
+Representative images of the three rice leaf diseases used in this project are available in the 'sample_images' folder.
+
+- Bacterial Leaf Blight
+- Brown Spot
+- Leaf Smut
